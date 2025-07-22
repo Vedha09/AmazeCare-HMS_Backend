@@ -1,0 +1,28 @@
+﻿using System;
+using System.ComponentModel.DataAnnotations;
+
+namespace AmazeCareHMS.DTOs.Patients
+{
+    public class PatientUpdateDto
+    {
+        [Required]
+        public int PatientId { get; set; }
+
+        [Required, MaxLength(50)]
+        public string PatientName { get; set; }
+
+        [Required]
+        [DataType(DataType.Date)]
+        public DateTime DateOfBirth { get; set; }
+
+        [Required, MaxLength(10)]
+        public string Gender { get; set; }
+
+        [Required, MaxLength(10)]
+        [Phone]
+        public string ContactNumber { get; set; }
+
+        [MaxLength(200)]
+        public string MedicalHistory { get; set; }
+    }
+}

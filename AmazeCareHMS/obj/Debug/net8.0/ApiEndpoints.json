@@ -1,0 +1,446 @@
+[
+  {
+    "ContainingType": "AmazeCareHMS.Controllers.AppointmentController",
+    "Method": "GetAllAppointments",
+    "RelativePath": "api/Appointment",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AmazeCareHMS.Controllers.AppointmentController",
+    "Method": "CreateAppointment",
+    "RelativePath": "api/Appointment",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "AmazeCareHMS.DTOs.Appointments.AppointmentCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AmazeCareHMS.Controllers.AppointmentController",
+    "Method": "GetAppointment",
+    "RelativePath": "api/Appointment/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AmazeCareHMS.Controllers.AppointmentController",
+    "Method": "UpdateAppointment",
+    "RelativePath": "api/Appointment/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "AmazeCareHMS.DTOs.Appointments.AppointmentUpdateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AmazeCareHMS.Controllers.AppointmentController",
+    "Method": "DeleteAppointment",
+    "RelativePath": "api/Appointment/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AmazeCareHMS.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "AmazeCareHMS.DTOs.Auth.UserLoginDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AmazeCareHMS.Controllers.AuthController",
+    "Method": "GetCurrentUser",
+    "RelativePath": "api/Auth/me",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AmazeCareHMS.Controllers.AuthController",
+    "Method": "Register",
+    "RelativePath": "api/Auth/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "AmazeCareHMS.DTOs.Auth.UserRegisterDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AmazeCareHMS.Controllers.ConsultationController",
+    "Method": "GetAll",
+    "RelativePath": "api/Consultation",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AmazeCareHMS.Controllers.ConsultationController",
+    "Method": "Create",
+    "RelativePath": "api/Consultation",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "AmazeCareHMS.DTOs.Consultations.ConsultationCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AmazeCareHMS.Controllers.ConsultationController",
+    "Method": "Get",
+    "RelativePath": "api/Consultation/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AmazeCareHMS.Controllers.DoctorController",
+    "Method": "GetAllDoctors",
+    "RelativePath": "api/Doctor",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[AmazeCareHMS.DTOs.Doctors.DoctorDto, AmazeCareHMS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AmazeCareHMS.Controllers.DoctorController",
+    "Method": "RegisterDoctor",
+    "RelativePath": "api/Doctor",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "AmazeCareHMS.DTOs.Doctors.DoctorRegisterDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "AmazeCareHMS.DTOs.Doctors.DoctorDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AmazeCareHMS.Controllers.DoctorController",
+    "Method": "GetDoctorById",
+    "RelativePath": "api/Doctor/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "AmazeCareHMS.DTOs.Doctors.DoctorDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AmazeCareHMS.Controllers.DoctorController",
+    "Method": "UpdateDoctor",
+    "RelativePath": "api/Doctor/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "AmazeCareHMS.DTOs.Doctors.DoctorUpdateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AmazeCareHMS.Controllers.DoctorController",
+    "Method": "DeleteDoctor",
+    "RelativePath": "api/Doctor/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AmazeCareHMS.Controllers.PatientController",
+    "Method": "GetAllPatients",
+    "RelativePath": "api/Patient",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[AmazeCareHMS.DTOs.Patients.PatientDto, AmazeCareHMS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AmazeCareHMS.Controllers.PatientController",
+    "Method": "CreatePatient",
+    "RelativePath": "api/Patient",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "newPatient",
+        "Type": "AmazeCareHMS.DTOs.Patients.PatientRegisterDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "AmazeCareHMS.DTOs.Patients.PatientDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AmazeCareHMS.Controllers.PatientController",
+    "Method": "GetPatientById",
+    "RelativePath": "api/Patient/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "AmazeCareHMS.DTOs.Patients.PatientDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AmazeCareHMS.Controllers.PatientController",
+    "Method": "UpdatePatient",
+    "RelativePath": "api/Patient/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "updatedPatient",
+        "Type": "AmazeCareHMS.DTOs.Patients.PatientUpdateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AmazeCareHMS.Controllers.PatientController",
+    "Method": "DeletePatient",
+    "RelativePath": "api/Patient/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AmazeCareHMS.Controllers.PrescriptionController",
+    "Method": "GetAllPrescriptions",
+    "RelativePath": "api/Prescription",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AmazeCareHMS.Controllers.PrescriptionController",
+    "Method": "Create",
+    "RelativePath": "api/Prescription",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "AmazeCareHMS.DTOs.Prescriptions.PrescriptionCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AmazeCareHMS.Controllers.PrescriptionController",
+    "Method": "UpdatePrescription",
+    "RelativePath": "api/Prescription/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "updatedPrescription",
+        "Type": "AmazeCareHMS.DTOs.Prescriptions.PrescriptionUpdateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AmazeCareHMS.Controllers.PrescriptionController",
+    "Method": "GetByConsultation",
+    "RelativePath": "api/Prescription/by-consultation/{consultationId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "consultationId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

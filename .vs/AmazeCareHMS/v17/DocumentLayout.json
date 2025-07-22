@@ -1,0 +1,691 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VEDHASRUTHI S\\source\\repos\\CS\\C\\AmazeCareHMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3A140C-9A70-4FFF-AF86-3FCB9AEC8763}|AmazeCareHMS\\AmazeCareHMS.csproj|c:\\users\\vedhasruthi s\\source\\repos\\cs\\c\\amazecarehms\\amazecarehms\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3A140C-9A70-4FFF-AF86-3FCB9AEC8763}|AmazeCareHMS\\AmazeCareHMS.csproj|solutionrelative:amazecarehms\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3A140C-9A70-4FFF-AF86-3FCB9AEC8763}|AmazeCareHMS\\AmazeCareHMS.csproj|c:\\users\\vedhasruthi s\\source\\repos\\cs\\c\\amazecarehms\\amazecarehms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3A140C-9A70-4FFF-AF86-3FCB9AEC8763}|AmazeCareHMS\\AmazeCareHMS.csproj|solutionrelative:amazecarehms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3A140C-9A70-4FFF-AF86-3FCB9AEC8763}|AmazeCareHMS\\AmazeCareHMS.csproj|c:\\users\\vedhasruthi s\\source\\repos\\cs\\c\\amazecarehms\\amazecarehms\\dtos\\doctors\\doctorregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3A140C-9A70-4FFF-AF86-3FCB9AEC8763}|AmazeCareHMS\\AmazeCareHMS.csproj|solutionrelative:amazecarehms\\dtos\\doctors\\doctorregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3A140C-9A70-4FFF-AF86-3FCB9AEC8763}|AmazeCareHMS\\AmazeCareHMS.csproj|c:\\users\\vedhasruthi s\\source\\repos\\cs\\c\\amazecarehms\\amazecarehms\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3A140C-9A70-4FFF-AF86-3FCB9AEC8763}|AmazeCareHMS\\AmazeCareHMS.csproj|solutionrelative:amazecarehms\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3A140C-9A70-4FFF-AF86-3FCB9AEC8763}|AmazeCareHMS\\AmazeCareHMS.csproj|c:\\users\\vedhasruthi s\\source\\repos\\cs\\c\\amazecarehms\\amazecarehms\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3A140C-9A70-4FFF-AF86-3FCB9AEC8763}|AmazeCareHMS\\AmazeCareHMS.csproj|solutionrelative:amazecarehms\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3A140C-9A70-4FFF-AF86-3FCB9AEC8763}|AmazeCareHMS\\AmazeCareHMS.csproj|c:\\users\\vedhasruthi s\\source\\repos\\cs\\c\\amazecarehms\\amazecarehms\\dtos\\prescriptions\\prescriptionupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3A140C-9A70-4FFF-AF86-3FCB9AEC8763}|AmazeCareHMS\\AmazeCareHMS.csproj|solutionrelative:amazecarehms\\dtos\\prescriptions\\prescriptionupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3A140C-9A70-4FFF-AF86-3FCB9AEC8763}|AmazeCareHMS\\AmazeCareHMS.csproj|c:\\users\\vedhasruthi s\\source\\repos\\cs\\c\\amazecarehms\\amazecarehms\\dtos\\prescriptions\\prescriptioncreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3A140C-9A70-4FFF-AF86-3FCB9AEC8763}|AmazeCareHMS\\AmazeCareHMS.csproj|solutionrelative:amazecarehms\\dtos\\prescriptions\\prescriptioncreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3A140C-9A70-4FFF-AF86-3FCB9AEC8763}|AmazeCareHMS\\AmazeCareHMS.csproj|c:\\users\\vedhasruthi s\\source\\repos\\cs\\c\\amazecarehms\\amazecarehms\\dtos\\prescriptions\\prescriptiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3A140C-9A70-4FFF-AF86-3FCB9AEC8763}|AmazeCareHMS\\AmazeCareHMS.csproj|solutionrelative:amazecarehms\\dtos\\prescriptions\\prescriptiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3A140C-9A70-4FFF-AF86-3FCB9AEC8763}|AmazeCareHMS\\AmazeCareHMS.csproj|c:\\users\\vedhasruthi s\\source\\repos\\cs\\c\\amazecarehms\\amazecarehms\\dtos\\patients\\patientregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3A140C-9A70-4FFF-AF86-3FCB9AEC8763}|AmazeCareHMS\\AmazeCareHMS.csproj|solutionrelative:amazecarehms\\dtos\\patients\\patientregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3A140C-9A70-4FFF-AF86-3FCB9AEC8763}|AmazeCareHMS\\AmazeCareHMS.csproj|c:\\users\\vedhasruthi s\\source\\repos\\cs\\c\\amazecarehms\\amazecarehms\\dtos\\patients\\patientupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3A140C-9A70-4FFF-AF86-3FCB9AEC8763}|AmazeCareHMS\\AmazeCareHMS.csproj|solutionrelative:amazecarehms\\dtos\\patients\\patientupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3A140C-9A70-4FFF-AF86-3FCB9AEC8763}|AmazeCareHMS\\AmazeCareHMS.csproj|c:\\users\\vedhasruthi s\\source\\repos\\cs\\c\\amazecarehms\\amazecarehms\\services\\implementations\\prescriptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3A140C-9A70-4FFF-AF86-3FCB9AEC8763}|AmazeCareHMS\\AmazeCareHMS.csproj|solutionrelative:amazecarehms\\services\\implementations\\prescriptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3A140C-9A70-4FFF-AF86-3FCB9AEC8763}|AmazeCareHMS\\AmazeCareHMS.csproj|c:\\users\\vedhasruthi s\\source\\repos\\cs\\c\\amazecarehms\\amazecarehms\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3A140C-9A70-4FFF-AF86-3FCB9AEC8763}|AmazeCareHMS\\AmazeCareHMS.csproj|solutionrelative:amazecarehms\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3A140C-9A70-4FFF-AF86-3FCB9AEC8763}|AmazeCareHMS\\AmazeCareHMS.csproj|c:\\users\\vedhasruthi s\\source\\repos\\cs\\c\\amazecarehms\\amazecarehms\\services\\implementations\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3A140C-9A70-4FFF-AF86-3FCB9AEC8763}|AmazeCareHMS\\AmazeCareHMS.csproj|solutionrelative:amazecarehms\\services\\implementations\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3A140C-9A70-4FFF-AF86-3FCB9AEC8763}|AmazeCareHMS\\AmazeCareHMS.csproj|c:\\users\\vedhasruthi s\\source\\repos\\cs\\c\\amazecarehms\\amazecarehms\\services\\implementations\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3A140C-9A70-4FFF-AF86-3FCB9AEC8763}|AmazeCareHMS\\AmazeCareHMS.csproj|solutionrelative:amazecarehms\\services\\implementations\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3A140C-9A70-4FFF-AF86-3FCB9AEC8763}|AmazeCareHMS\\AmazeCareHMS.csproj|c:\\users\\vedhasruthi s\\source\\repos\\cs\\c\\amazecarehms\\amazecarehms\\services\\implementations\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3A140C-9A70-4FFF-AF86-3FCB9AEC8763}|AmazeCareHMS\\AmazeCareHMS.csproj|solutionrelative:amazecarehms\\services\\implementations\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3A140C-9A70-4FFF-AF86-3FCB9AEC8763}|AmazeCareHMS\\AmazeCareHMS.csproj|c:\\users\\vedhasruthi s\\source\\repos\\cs\\c\\amazecarehms\\amazecarehms\\services\\interfaces\\iprescriptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3A140C-9A70-4FFF-AF86-3FCB9AEC8763}|AmazeCareHMS\\AmazeCareHMS.csproj|solutionrelative:amazecarehms\\services\\interfaces\\iprescriptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3A140C-9A70-4FFF-AF86-3FCB9AEC8763}|AmazeCareHMS\\AmazeCareHMS.csproj|c:\\users\\vedhasruthi s\\source\\repos\\cs\\c\\amazecarehms\\amazecarehms\\services\\interfaces\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3A140C-9A70-4FFF-AF86-3FCB9AEC8763}|AmazeCareHMS\\AmazeCareHMS.csproj|solutionrelative:amazecarehms\\services\\interfaces\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3A140C-9A70-4FFF-AF86-3FCB9AEC8763}|AmazeCareHMS\\AmazeCareHMS.csproj|c:\\users\\vedhasruthi s\\source\\repos\\cs\\c\\amazecarehms\\amazecarehms\\services\\interfaces\\iappointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3A140C-9A70-4FFF-AF86-3FCB9AEC8763}|AmazeCareHMS\\AmazeCareHMS.csproj|solutionrelative:amazecarehms\\services\\interfaces\\iappointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3A140C-9A70-4FFF-AF86-3FCB9AEC8763}|AmazeCareHMS\\AmazeCareHMS.csproj|c:\\users\\vedhasruthi s\\source\\repos\\cs\\c\\amazecarehms\\amazecarehms\\services\\interfaces\\iconsultationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3A140C-9A70-4FFF-AF86-3FCB9AEC8763}|AmazeCareHMS\\AmazeCareHMS.csproj|solutionrelative:amazecarehms\\services\\interfaces\\iconsultationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3A140C-9A70-4FFF-AF86-3FCB9AEC8763}|AmazeCareHMS\\AmazeCareHMS.csproj|c:\\users\\vedhasruthi s\\source\\repos\\cs\\c\\amazecarehms\\amazecarehms\\services\\interfaces\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3A140C-9A70-4FFF-AF86-3FCB9AEC8763}|AmazeCareHMS\\AmazeCareHMS.csproj|solutionrelative:amazecarehms\\services\\interfaces\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3A140C-9A70-4FFF-AF86-3FCB9AEC8763}|AmazeCareHMS\\AmazeCareHMS.csproj|c:\\users\\vedhasruthi s\\source\\repos\\cs\\c\\amazecarehms\\amazecarehms\\controllers\\presciptioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3A140C-9A70-4FFF-AF86-3FCB9AEC8763}|AmazeCareHMS\\AmazeCareHMS.csproj|solutionrelative:amazecarehms\\controllers\\presciptioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3A140C-9A70-4FFF-AF86-3FCB9AEC8763}|AmazeCareHMS\\AmazeCareHMS.csproj|c:\\users\\vedhasruthi s\\source\\repos\\cs\\c\\amazecarehms\\amazecarehms\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ED3A140C-9A70-4FFF-AF86-3FCB9AEC8763}|AmazeCareHMS\\AmazeCareHMS.csproj|solutionrelative:amazecarehms\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3A140C-9A70-4FFF-AF86-3FCB9AEC8763}|AmazeCareHMS\\AmazeCareHMS.csproj|c:\\users\\vedhasruthi s\\source\\repos\\cs\\c\\amazecarehms\\amazecarehms\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ED3A140C-9A70-4FFF-AF86-3FCB9AEC8763}|AmazeCareHMS\\AmazeCareHMS.csproj|solutionrelative:amazecarehms\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3A140C-9A70-4FFF-AF86-3FCB9AEC8763}|AmazeCareHMS\\AmazeCareHMS.csproj|c:\\users\\vedhasruthi s\\source\\repos\\cs\\c\\amazecarehms\\amazecarehms\\services\\implementations\\consultationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3A140C-9A70-4FFF-AF86-3FCB9AEC8763}|AmazeCareHMS\\AmazeCareHMS.csproj|solutionrelative:amazecarehms\\services\\implementations\\consultationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3A140C-9A70-4FFF-AF86-3FCB9AEC8763}|AmazeCareHMS\\AmazeCareHMS.csproj|c:\\users\\vedhasruthi s\\source\\repos\\cs\\c\\amazecarehms\\amazecarehms\\controllers\\consultationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3A140C-9A70-4FFF-AF86-3FCB9AEC8763}|AmazeCareHMS\\AmazeCareHMS.csproj|solutionrelative:amazecarehms\\controllers\\consultationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3A140C-9A70-4FFF-AF86-3FCB9AEC8763}|AmazeCareHMS\\AmazeCareHMS.csproj|c:\\users\\vedhasruthi s\\source\\repos\\cs\\c\\amazecarehms\\amazecarehms\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3A140C-9A70-4FFF-AF86-3FCB9AEC8763}|AmazeCareHMS\\AmazeCareHMS.csproj|solutionrelative:amazecarehms\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3A140C-9A70-4FFF-AF86-3FCB9AEC8763}|AmazeCareHMS\\AmazeCareHMS.csproj|c:\\users\\vedhasruthi s\\source\\repos\\cs\\c\\amazecarehms\\amazecarehms\\models\\consultation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3A140C-9A70-4FFF-AF86-3FCB9AEC8763}|AmazeCareHMS\\AmazeCareHMS.csproj|solutionrelative:amazecarehms\\models\\consultation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3A140C-9A70-4FFF-AF86-3FCB9AEC8763}|AmazeCareHMS\\AmazeCareHMS.csproj|c:\\users\\vedhasruthi s\\source\\repos\\cs\\c\\amazecarehms\\amazecarehms\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3A140C-9A70-4FFF-AF86-3FCB9AEC8763}|AmazeCareHMS\\AmazeCareHMS.csproj|solutionrelative:amazecarehms\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3A140C-9A70-4FFF-AF86-3FCB9AEC8763}|AmazeCareHMS\\AmazeCareHMS.csproj|c:\\users\\vedhasruthi s\\source\\repos\\cs\\c\\amazecarehms\\amazecarehms\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3A140C-9A70-4FFF-AF86-3FCB9AEC8763}|AmazeCareHMS\\AmazeCareHMS.csproj|solutionrelative:amazecarehms\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3A140C-9A70-4FFF-AF86-3FCB9AEC8763}|AmazeCareHMS\\AmazeCareHMS.csproj|c:\\users\\vedhasruthi s\\source\\repos\\cs\\c\\amazecarehms\\amazecarehms\\models\\prescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3A140C-9A70-4FFF-AF86-3FCB9AEC8763}|AmazeCareHMS\\AmazeCareHMS.csproj|solutionrelative:amazecarehms\\models\\prescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3A140C-9A70-4FFF-AF86-3FCB9AEC8763}|AmazeCareHMS\\AmazeCareHMS.csproj|c:\\users\\vedhasruthi s\\source\\repos\\cs\\c\\amazecarehms\\amazecarehms\\services\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3A140C-9A70-4FFF-AF86-3FCB9AEC8763}|AmazeCareHMS\\AmazeCareHMS.csproj|solutionrelative:amazecarehms\\services\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3A140C-9A70-4FFF-AF86-3FCB9AEC8763}|AmazeCareHMS\\AmazeCareHMS.csproj|c:\\users\\vedhasruthi s\\source\\repos\\cs\\c\\amazecarehms\\amazecarehms\\dtos\\patients\\patientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3A140C-9A70-4FFF-AF86-3FCB9AEC8763}|AmazeCareHMS\\AmazeCareHMS.csproj|solutionrelative:amazecarehms\\dtos\\patients\\patientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3A140C-9A70-4FFF-AF86-3FCB9AEC8763}|AmazeCareHMS\\AmazeCareHMS.csproj|c:\\users\\vedhasruthi s\\source\\repos\\cs\\c\\amazecarehms\\amazecarehms\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3A140C-9A70-4FFF-AF86-3FCB9AEC8763}|AmazeCareHMS\\AmazeCareHMS.csproj|solutionrelative:amazecarehms\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3A140C-9A70-4FFF-AF86-3FCB9AEC8763}|AmazeCareHMS\\AmazeCareHMS.csproj|c:\\users\\vedhasruthi s\\source\\repos\\cs\\c\\amazecarehms\\amazecarehms\\services\\implementations\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3A140C-9A70-4FFF-AF86-3FCB9AEC8763}|AmazeCareHMS\\AmazeCareHMS.csproj|solutionrelative:amazecarehms\\services\\implementations\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3A140C-9A70-4FFF-AF86-3FCB9AEC8763}|AmazeCareHMS\\AmazeCareHMS.csproj|c:\\users\\vedhasruthi s\\source\\repos\\cs\\c\\amazecarehms\\amazecarehms\\dtos\\auth\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3A140C-9A70-4FFF-AF86-3FCB9AEC8763}|AmazeCareHMS\\AmazeCareHMS.csproj|solutionrelative:amazecarehms\\dtos\\auth\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3A140C-9A70-4FFF-AF86-3FCB9AEC8763}|AmazeCareHMS\\AmazeCareHMS.csproj|c:\\users\\vedhasruthi s\\source\\repos\\cs\\c\\amazecarehms\\amazecarehms\\dtos\\appointments\\appointmentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3A140C-9A70-4FFF-AF86-3FCB9AEC8763}|AmazeCareHMS\\AmazeCareHMS.csproj|solutionrelative:amazecarehms\\dtos\\appointments\\appointmentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3A140C-9A70-4FFF-AF86-3FCB9AEC8763}|AmazeCareHMS\\AmazeCareHMS.csproj|c:\\users\\vedhasruthi s\\source\\repos\\cs\\c\\amazecarehms\\amazecarehms\\data\\amazecaredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3A140C-9A70-4FFF-AF86-3FCB9AEC8763}|AmazeCareHMS\\AmazeCareHMS.csproj|solutionrelative:amazecarehms\\data\\amazecaredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3A140C-9A70-4FFF-AF86-3FCB9AEC8763}|AmazeCareHMS\\AmazeCareHMS.csproj|c:\\users\\vedhasruthi s\\source\\repos\\cs\\c\\amazecarehms\\amazecarehms\\dtos\\appointments\\appointmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3A140C-9A70-4FFF-AF86-3FCB9AEC8763}|AmazeCareHMS\\AmazeCareHMS.csproj|solutionrelative:amazecarehms\\dtos\\appointments\\appointmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3A140C-9A70-4FFF-AF86-3FCB9AEC8763}|AmazeCareHMS\\AmazeCareHMS.csproj|c:\\users\\vedhasruthi s\\source\\repos\\cs\\c\\amazecarehms\\amazecarehms\\dtos\\appointments\\appointmentupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3A140C-9A70-4FFF-AF86-3FCB9AEC8763}|AmazeCareHMS\\AmazeCareHMS.csproj|solutionrelative:amazecarehms\\dtos\\appointments\\appointmentupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3A140C-9A70-4FFF-AF86-3FCB9AEC8763}|AmazeCareHMS\\AmazeCareHMS.csproj|c:\\users\\vedhasruthi s\\source\\repos\\cs\\c\\amazecarehms\\amazecarehms\\migrations\\20250715172337_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3A140C-9A70-4FFF-AF86-3FCB9AEC8763}|AmazeCareHMS\\AmazeCareHMS.csproj|solutionrelative:amazecarehms\\migrations\\20250715172337_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NITHYA\\AppData\\Local\\Temp\\5njbiskg..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PatientRegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\VEDHASRUTHI S\\source\\repos\\CS\\C\\AmazeCareHMS\\AmazeCareHMS\\DTOs\\Patients\\PatientRegisterDto.cs",
+              "RelativeDocumentMoniker": "AmazeCareHMS\\DTOs\\Patients\\PatientRegisterDto.cs",
+              "ToolTip": "C:\\Users\\VEDHASRUTHI S\\source\\repos\\CS\\C\\AmazeCareHMS\\AmazeCareHMS\\DTOs\\Patients\\PatientRegisterDto.cs",
+              "RelativeToolTip": "AmazeCareHMS\\DTOs\\Patients\\PatientRegisterDto.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T07:52:38.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PrescriptionCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\VEDHASRUTHI S\\source\\repos\\CS\\C\\AmazeCareHMS\\AmazeCareHMS\\DTOs\\Prescriptions\\PrescriptionCreateDto.cs",
+              "RelativeDocumentMoniker": "AmazeCareHMS\\DTOs\\Prescriptions\\PrescriptionCreateDto.cs",
+              "ToolTip": "C:\\Users\\VEDHASRUTHI S\\source\\repos\\CS\\C\\AmazeCareHMS\\AmazeCareHMS\\DTOs\\Prescriptions\\PrescriptionCreateDto.cs",
+              "RelativeToolTip": "AmazeCareHMS\\DTOs\\Prescriptions\\PrescriptionCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T11:08:00.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppointmentController.cs",
+              "DocumentMoniker": "C:\\Users\\VEDHASRUTHI S\\source\\repos\\CS\\C\\AmazeCareHMS\\AmazeCareHMS\\Controllers\\AppointmentController.cs",
+              "RelativeDocumentMoniker": "AmazeCareHMS\\Controllers\\AppointmentController.cs",
+              "ToolTip": "C:\\Users\\VEDHASRUTHI S\\source\\repos\\CS\\C\\AmazeCareHMS\\AmazeCareHMS\\Controllers\\AppointmentController.cs",
+              "RelativeToolTip": "AmazeCareHMS\\Controllers\\AppointmentController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAADIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T21:09:40.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VEDHASRUTHI S\\source\\repos\\CS\\C\\AmazeCareHMS\\AmazeCareHMS\\Program.cs",
+              "RelativeDocumentMoniker": "AmazeCareHMS\\Program.cs",
+              "ToolTip": "C:\\Users\\VEDHASRUTHI S\\source\\repos\\CS\\C\\AmazeCareHMS\\AmazeCareHMS\\Program.cs",
+              "RelativeToolTip": "AmazeCareHMS\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T18:31:41.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DoctorRegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\VEDHASRUTHI S\\source\\repos\\CS\\C\\AmazeCareHMS\\AmazeCareHMS\\DTOs\\Doctors\\DoctorRegisterDto.cs",
+              "RelativeDocumentMoniker": "AmazeCareHMS\\DTOs\\Doctors\\DoctorRegisterDto.cs",
+              "ToolTip": "C:\\Users\\VEDHASRUTHI S\\source\\repos\\CS\\C\\AmazeCareHMS\\AmazeCareHMS\\DTOs\\Doctors\\DoctorRegisterDto.cs",
+              "RelativeToolTip": "AmazeCareHMS\\DTOs\\Doctors\\DoctorRegisterDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T12:03:32.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PatientController.cs",
+              "DocumentMoniker": "C:\\Users\\VEDHASRUTHI S\\source\\repos\\CS\\C\\AmazeCareHMS\\AmazeCareHMS\\Controllers\\PatientController.cs",
+              "RelativeDocumentMoniker": "AmazeCareHMS\\Controllers\\PatientController.cs",
+              "ToolTip": "C:\\Users\\VEDHASRUTHI S\\source\\repos\\CS\\C\\AmazeCareHMS\\AmazeCareHMS\\Controllers\\PatientController.cs",
+              "RelativeToolTip": "AmazeCareHMS\\Controllers\\PatientController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAACsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T06:07:10.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PatientUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\VEDHASRUTHI S\\source\\repos\\CS\\C\\AmazeCareHMS\\AmazeCareHMS\\DTOs\\Patients\\PatientUpdateDto.cs",
+              "RelativeDocumentMoniker": "AmazeCareHMS\\DTOs\\Patients\\PatientUpdateDto.cs",
+              "ToolTip": "C:\\Users\\VEDHASRUTHI S\\source\\repos\\CS\\C\\AmazeCareHMS\\AmazeCareHMS\\DTOs\\Patients\\PatientUpdateDto.cs",
+              "RelativeToolTip": "AmazeCareHMS\\DTOs\\Patients\\PatientUpdateDto.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T10:02:58.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PrescriptionDto.cs",
+              "DocumentMoniker": "C:\\Users\\VEDHASRUTHI S\\source\\repos\\CS\\C\\AmazeCareHMS\\AmazeCareHMS\\DTOs\\Prescriptions\\PrescriptionDto.cs",
+              "RelativeDocumentMoniker": "AmazeCareHMS\\DTOs\\Prescriptions\\PrescriptionDto.cs",
+              "ToolTip": "C:\\Users\\VEDHASRUTHI S\\source\\repos\\CS\\C\\AmazeCareHMS\\AmazeCareHMS\\DTOs\\Prescriptions\\PrescriptionDto.cs",
+              "RelativeToolTip": "AmazeCareHMS\\DTOs\\Prescriptions\\PrescriptionDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T11:08:09.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\VEDHASRUTHI S\\source\\repos\\CS\\C\\AmazeCareHMS\\AmazeCareHMS\\Mappings\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "AmazeCareHMS\\Mappings\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\VEDHASRUTHI S\\source\\repos\\CS\\C\\AmazeCareHMS\\AmazeCareHMS\\Mappings\\MappingProfile.cs",
+              "RelativeToolTip": "AmazeCareHMS\\Mappings\\MappingProfile.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAmwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T20:11:38.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "C:\\Users\\VEDHASRUTHI S\\source\\repos\\CS\\C\\AmazeCareHMS\\AmazeCareHMS\\Controllers\\DoctorController.cs",
+              "RelativeDocumentMoniker": "AmazeCareHMS\\Controllers\\DoctorController.cs",
+              "ToolTip": "C:\\Users\\VEDHASRUTHI S\\source\\repos\\CS\\C\\AmazeCareHMS\\AmazeCareHMS\\Controllers\\DoctorController.cs",
+              "RelativeToolTip": "AmazeCareHMS\\Controllers\\DoctorController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAmwCcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T20:49:58.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PrescriptionUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\VEDHASRUTHI S\\source\\repos\\CS\\C\\AmazeCareHMS\\AmazeCareHMS\\DTOs\\Prescriptions\\PrescriptionUpdateDto.cs",
+              "RelativeDocumentMoniker": "AmazeCareHMS\\DTOs\\Prescriptions\\PrescriptionUpdateDto.cs",
+              "ToolTip": "C:\\Users\\VEDHASRUTHI S\\source\\repos\\CS\\C\\AmazeCareHMS\\AmazeCareHMS\\DTOs\\Prescriptions\\PrescriptionUpdateDto.cs",
+              "RelativeToolTip": "AmazeCareHMS\\DTOs\\Prescriptions\\PrescriptionUpdateDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T10:02:33.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PrescriptionService.cs",
+              "DocumentMoniker": "C:\\Users\\VEDHASRUTHI S\\source\\repos\\CS\\C\\AmazeCareHMS\\AmazeCareHMS\\Services\\Implementations\\PrescriptionService.cs",
+              "RelativeDocumentMoniker": "AmazeCareHMS\\Services\\Implementations\\PrescriptionService.cs",
+              "ToolTip": "C:\\Users\\VEDHASRUTHI S\\source\\repos\\CS\\C\\AmazeCareHMS\\AmazeCareHMS\\Services\\Implementations\\PrescriptionService.cs",
+              "RelativeToolTip": "AmazeCareHMS\\Services\\Implementations\\PrescriptionService.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAqwE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T05:19:43.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppointmentService.cs",
+              "DocumentMoniker": "C:\\Users\\VEDHASRUTHI S\\source\\repos\\CS\\C\\AmazeCareHMS\\AmazeCareHMS\\Services\\Implementations\\AppointmentService.cs",
+              "RelativeDocumentMoniker": "AmazeCareHMS\\Services\\Implementations\\AppointmentService.cs",
+              "ToolTip": "C:\\Users\\VEDHASRUTHI S\\source\\repos\\CS\\C\\AmazeCareHMS\\AmazeCareHMS\\Services\\Implementations\\AppointmentService.cs",
+              "RelativeToolTip": "AmazeCareHMS\\Services\\Implementations\\AppointmentService.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T06:26:31.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IConsultationService.cs",
+              "DocumentMoniker": "C:\\Users\\VEDHASRUTHI S\\source\\repos\\CS\\C\\AmazeCareHMS\\AmazeCareHMS\\Services\\Interfaces\\IConsultationService.cs",
+              "RelativeDocumentMoniker": "AmazeCareHMS\\Services\\Interfaces\\IConsultationService.cs",
+              "ToolTip": "C:\\Users\\VEDHASRUTHI S\\source\\repos\\CS\\C\\AmazeCareHMS\\AmazeCareHMS\\Services\\Interfaces\\IConsultationService.cs",
+              "RelativeToolTip": "AmazeCareHMS\\Services\\Interfaces\\IConsultationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T11:37:02.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PatientService.cs",
+              "DocumentMoniker": "C:\\Users\\VEDHASRUTHI S\\source\\repos\\CS\\C\\AmazeCareHMS\\AmazeCareHMS\\Services\\Implementations\\PatientService.cs",
+              "RelativeDocumentMoniker": "AmazeCareHMS\\Services\\Implementations\\PatientService.cs",
+              "ToolTip": "C:\\Users\\VEDHASRUTHI S\\source\\repos\\CS\\C\\AmazeCareHMS\\AmazeCareHMS\\Services\\Implementations\\PatientService.cs",
+              "RelativeToolTip": "AmazeCareHMS\\Services\\Implementations\\PatientService.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAuwGIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T20:06:19.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DoctorService.cs",
+              "DocumentMoniker": "C:\\Users\\VEDHASRUTHI S\\source\\repos\\CS\\C\\AmazeCareHMS\\AmazeCareHMS\\Services\\Implementations\\DoctorService.cs",
+              "RelativeDocumentMoniker": "AmazeCareHMS\\Services\\Implementations\\DoctorService.cs",
+              "ToolTip": "C:\\Users\\VEDHASRUTHI S\\source\\repos\\CS\\C\\AmazeCareHMS\\AmazeCareHMS\\Services\\Implementations\\DoctorService.cs",
+              "RelativeToolTip": "AmazeCareHMS\\Services\\Implementations\\DoctorService.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAqwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T20:49:49.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IAppointmentService.cs",
+              "DocumentMoniker": "C:\\Users\\VEDHASRUTHI S\\source\\repos\\CS\\C\\AmazeCareHMS\\AmazeCareHMS\\Services\\Interfaces\\IAppointmentService.cs",
+              "RelativeDocumentMoniker": "AmazeCareHMS\\Services\\Interfaces\\IAppointmentService.cs",
+              "ToolTip": "C:\\Users\\VEDHASRUTHI S\\source\\repos\\CS\\C\\AmazeCareHMS\\AmazeCareHMS\\Services\\Interfaces\\IAppointmentService.cs",
+              "RelativeToolTip": "AmazeCareHMS\\Services\\Interfaces\\IAppointmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T06:27:31.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IDoctorService.cs",
+              "DocumentMoniker": "C:\\Users\\VEDHASRUTHI S\\source\\repos\\CS\\C\\AmazeCareHMS\\AmazeCareHMS\\Services\\Interfaces\\IDoctorService.cs",
+              "RelativeDocumentMoniker": "AmazeCareHMS\\Services\\Interfaces\\IDoctorService.cs",
+              "ToolTip": "C:\\Users\\VEDHASRUTHI S\\source\\repos\\CS\\C\\AmazeCareHMS\\AmazeCareHMS\\Services\\Interfaces\\IDoctorService.cs",
+              "RelativeToolTip": "AmazeCareHMS\\Services\\Interfaces\\IDoctorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T20:56:29.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IPrescriptionService.cs",
+              "DocumentMoniker": "C:\\Users\\VEDHASRUTHI S\\source\\repos\\CS\\C\\AmazeCareHMS\\AmazeCareHMS\\Services\\Interfaces\\IPrescriptionService.cs",
+              "RelativeDocumentMoniker": "AmazeCareHMS\\Services\\Interfaces\\IPrescriptionService.cs",
+              "ToolTip": "C:\\Users\\VEDHASRUTHI S\\source\\repos\\CS\\C\\AmazeCareHMS\\AmazeCareHMS\\Services\\Interfaces\\IPrescriptionService.cs",
+              "RelativeToolTip": "AmazeCareHMS\\Services\\Interfaces\\IPrescriptionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T08:50:20.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IPatientService.cs",
+              "DocumentMoniker": "C:\\Users\\VEDHASRUTHI S\\source\\repos\\CS\\C\\AmazeCareHMS\\AmazeCareHMS\\Services\\Interfaces\\IPatientService.cs",
+              "RelativeDocumentMoniker": "AmazeCareHMS\\Services\\Interfaces\\IPatientService.cs",
+              "ToolTip": "C:\\Users\\VEDHASRUTHI S\\source\\repos\\CS\\C\\AmazeCareHMS\\AmazeCareHMS\\Services\\Interfaces\\IPatientService.cs",
+              "RelativeToolTip": "AmazeCareHMS\\Services\\Interfaces\\IPatientService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T11:51:46.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\VEDHASRUTHI S\\source\\repos\\CS\\C\\AmazeCareHMS\\AmazeCareHMS\\appsettings.json",
+              "RelativeDocumentMoniker": "AmazeCareHMS\\appsettings.json",
+              "ToolTip": "C:\\Users\\VEDHASRUTHI S\\source\\repos\\CS\\C\\AmazeCareHMS\\AmazeCareHMS\\appsettings.json",
+              "RelativeToolTip": "AmazeCareHMS\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-17T05:27:32.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\VEDHASRUTHI S\\source\\repos\\CS\\C\\AmazeCareHMS\\AmazeCareHMS\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "AmazeCareHMS\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\VEDHASRUTHI S\\source\\repos\\CS\\C\\AmazeCareHMS\\AmazeCareHMS\\Properties\\launchSettings.json",
+              "RelativeToolTip": "AmazeCareHMS\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-17T17:45:47.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PresciptionController.cs",
+              "DocumentMoniker": "C:\\Users\\VEDHASRUTHI S\\source\\repos\\CS\\C\\AmazeCareHMS\\AmazeCareHMS\\Controllers\\PresciptionController.cs",
+              "RelativeDocumentMoniker": "AmazeCareHMS\\Controllers\\PresciptionController.cs",
+              "ToolTip": "C:\\Users\\VEDHASRUTHI S\\source\\repos\\CS\\C\\AmazeCareHMS\\AmazeCareHMS\\Controllers\\PresciptionController.cs",
+              "RelativeToolTip": "AmazeCareHMS\\Controllers\\PresciptionController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAwBkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T06:07:23.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ConsultationService.cs",
+              "DocumentMoniker": "C:\\Users\\VEDHASRUTHI S\\source\\repos\\CS\\C\\AmazeCareHMS\\AmazeCareHMS\\Services\\Implementations\\ConsultationService.cs",
+              "RelativeDocumentMoniker": "AmazeCareHMS\\Services\\Implementations\\ConsultationService.cs",
+              "ToolTip": "C:\\Users\\VEDHASRUTHI S\\source\\repos\\CS\\C\\AmazeCareHMS\\AmazeCareHMS\\Services\\Implementations\\ConsultationService.cs",
+              "RelativeToolTip": "AmazeCareHMS\\Services\\Implementations\\ConsultationService.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAuwC0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T11:06:27.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ConsultationController.cs",
+              "DocumentMoniker": "C:\\Users\\VEDHASRUTHI S\\source\\repos\\CS\\C\\AmazeCareHMS\\AmazeCareHMS\\Controllers\\ConsultationController.cs",
+              "RelativeDocumentMoniker": "AmazeCareHMS\\Controllers\\ConsultationController.cs",
+              "ToolTip": "C:\\Users\\VEDHASRUTHI S\\source\\repos\\CS\\C\\AmazeCareHMS\\AmazeCareHMS\\Controllers\\ConsultationController.cs",
+              "RelativeToolTip": "AmazeCareHMS\\Controllers\\ConsultationController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAuwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T06:07:28.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\VEDHASRUTHI S\\source\\repos\\CS\\C\\AmazeCareHMS\\AmazeCareHMS\\Models\\User.cs",
+              "RelativeDocumentMoniker": "AmazeCareHMS\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\VEDHASRUTHI S\\source\\repos\\CS\\C\\AmazeCareHMS\\AmazeCareHMS\\Models\\User.cs",
+              "RelativeToolTip": "AmazeCareHMS\\Models\\User.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T05:15:08.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\VEDHASRUTHI S\\source\\repos\\CS\\C\\AmazeCareHMS\\AmazeCareHMS\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "AmazeCareHMS\\Models\\Patient.cs",
+              "ToolTip": "C:\\Users\\VEDHASRUTHI S\\source\\repos\\CS\\C\\AmazeCareHMS\\AmazeCareHMS\\Models\\Patient.cs",
+              "RelativeToolTip": "AmazeCareHMS\\Models\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T20:12:27.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Prescription.cs",
+              "DocumentMoniker": "C:\\Users\\VEDHASRUTHI S\\source\\repos\\CS\\C\\AmazeCareHMS\\AmazeCareHMS\\Models\\Prescription.cs",
+              "RelativeDocumentMoniker": "AmazeCareHMS\\Models\\Prescription.cs",
+              "ToolTip": "C:\\Users\\VEDHASRUTHI S\\source\\repos\\CS\\C\\AmazeCareHMS\\AmazeCareHMS\\Models\\Prescription.cs",
+              "RelativeToolTip": "AmazeCareHMS\\Models\\Prescription.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T11:06:20.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\VEDHASRUTHI S\\source\\repos\\CS\\C\\AmazeCareHMS\\AmazeCareHMS\\Services\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "AmazeCareHMS\\Services\\Interfaces\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\VEDHASRUTHI S\\source\\repos\\CS\\C\\AmazeCareHMS\\AmazeCareHMS\\Services\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "AmazeCareHMS\\Services\\Interfaces\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T11:08:28.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Consultation.cs",
+              "DocumentMoniker": "C:\\Users\\VEDHASRUTHI S\\source\\repos\\CS\\C\\AmazeCareHMS\\AmazeCareHMS\\Models\\Consultation.cs",
+              "RelativeDocumentMoniker": "AmazeCareHMS\\Models\\Consultation.cs",
+              "ToolTip": "C:\\Users\\VEDHASRUTHI S\\source\\repos\\CS\\C\\AmazeCareHMS\\AmazeCareHMS\\Models\\Consultation.cs",
+              "RelativeToolTip": "AmazeCareHMS\\Models\\Consultation.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA5wBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T11:08:45.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\VEDHASRUTHI S\\source\\repos\\CS\\C\\AmazeCareHMS\\AmazeCareHMS\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "AmazeCareHMS\\Models\\Appointment.cs",
+              "ToolTip": "C:\\Users\\VEDHASRUTHI S\\source\\repos\\CS\\C\\AmazeCareHMS\\AmazeCareHMS\\Models\\Appointment.cs",
+              "RelativeToolTip": "AmazeCareHMS\\Models\\Appointment.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwBsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T06:27:50.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "PatientDto.cs",
+              "DocumentMoniker": "C:\\Users\\VEDHASRUTHI S\\source\\repos\\CS\\C\\AmazeCareHMS\\AmazeCareHMS\\DTOs\\Patients\\PatientDto.cs",
+              "RelativeDocumentMoniker": "AmazeCareHMS\\DTOs\\Patients\\PatientDto.cs",
+              "ToolTip": "C:\\Users\\VEDHASRUTHI S\\source\\repos\\CS\\C\\AmazeCareHMS\\AmazeCareHMS\\DTOs\\Patients\\PatientDto.cs",
+              "RelativeToolTip": "AmazeCareHMS\\DTOs\\Patients\\PatientDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAzwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T20:12:49.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\VEDHASRUTHI S\\source\\repos\\CS\\C\\AmazeCareHMS\\AmazeCareHMS\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "AmazeCareHMS\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\VEDHASRUTHI S\\source\\repos\\CS\\C\\AmazeCareHMS\\AmazeCareHMS\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "AmazeCareHMS\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAuwB8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T05:22:53.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "UserRegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\VEDHASRUTHI S\\source\\repos\\CS\\C\\AmazeCareHMS\\AmazeCareHMS\\DTOs\\Auth\\UserRegisterDto.cs",
+              "RelativeDocumentMoniker": "AmazeCareHMS\\DTOs\\Auth\\UserRegisterDto.cs",
+              "ToolTip": "C:\\Users\\VEDHASRUTHI S\\source\\repos\\CS\\C\\AmazeCareHMS\\AmazeCareHMS\\DTOs\\Auth\\UserRegisterDto.cs",
+              "RelativeToolTip": "AmazeCareHMS\\DTOs\\Auth\\UserRegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T07:35:36.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AppointmentCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\VEDHASRUTHI S\\source\\repos\\CS\\C\\AmazeCareHMS\\AmazeCareHMS\\DTOs\\Appointments\\AppointmentCreateDto.cs",
+              "RelativeDocumentMoniker": "AmazeCareHMS\\DTOs\\Appointments\\AppointmentCreateDto.cs",
+              "ToolTip": "C:\\Users\\VEDHASRUTHI S\\source\\repos\\CS\\C\\AmazeCareHMS\\AmazeCareHMS\\DTOs\\Appointments\\AppointmentCreateDto.cs",
+              "RelativeToolTip": "AmazeCareHMS\\DTOs\\Appointments\\AppointmentCreateDto.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T06:44:17.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AppointmentUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\VEDHASRUTHI S\\source\\repos\\CS\\C\\AmazeCareHMS\\AmazeCareHMS\\DTOs\\Appointments\\AppointmentUpdateDto.cs",
+              "RelativeDocumentMoniker": "AmazeCareHMS\\DTOs\\Appointments\\AppointmentUpdateDto.cs",
+              "ToolTip": "C:\\Users\\VEDHASRUTHI S\\source\\repos\\CS\\C\\AmazeCareHMS\\AmazeCareHMS\\DTOs\\Appointments\\AppointmentUpdateDto.cs",
+              "RelativeToolTip": "AmazeCareHMS\\DTOs\\Appointments\\AppointmentUpdateDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T06:43:56.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\VEDHASRUTHI S\\source\\repos\\CS\\C\\AmazeCareHMS\\AmazeCareHMS\\Services\\Implementations\\AuthService.cs",
+              "RelativeDocumentMoniker": "AmazeCareHMS\\Services\\Implementations\\AuthService.cs",
+              "ToolTip": "C:\\Users\\VEDHASRUTHI S\\source\\repos\\CS\\C\\AmazeCareHMS\\AmazeCareHMS\\Services\\Implementations\\AuthService.cs",
+              "RelativeToolTip": "AmazeCareHMS\\Services\\Implementations\\AuthService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T20:01:04.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AmazeCareDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\VEDHASRUTHI S\\source\\repos\\CS\\C\\AmazeCareHMS\\AmazeCareHMS\\Data\\AmazeCareDbContext.cs",
+              "RelativeDocumentMoniker": "AmazeCareHMS\\Data\\AmazeCareDbContext.cs",
+              "ToolTip": "C:\\Users\\VEDHASRUTHI S\\source\\repos\\CS\\C\\AmazeCareHMS\\AmazeCareHMS\\Data\\AmazeCareDbContext.cs",
+              "RelativeToolTip": "AmazeCareHMS\\Data\\AmazeCareDbContext.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAADwvzoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T06:27:21.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "AppointmentDto.cs",
+              "DocumentMoniker": "C:\\Users\\VEDHASRUTHI S\\source\\repos\\CS\\C\\AmazeCareHMS\\AmazeCareHMS\\DTOs\\Appointments\\AppointmentDto.cs",
+              "RelativeDocumentMoniker": "AmazeCareHMS\\DTOs\\Appointments\\AppointmentDto.cs",
+              "ToolTip": "C:\\Users\\VEDHASRUTHI S\\source\\repos\\CS\\C\\AmazeCareHMS\\AmazeCareHMS\\DTOs\\Appointments\\AppointmentDto.cs",
+              "RelativeToolTip": "AmazeCareHMS\\DTOs\\Appointments\\AppointmentDto.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T06:44:11.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20250715172337_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\VEDHASRUTHI S\\source\\repos\\CS\\C\\AmazeCareHMS\\AmazeCareHMS\\Migrations\\20250715172337_InitialCreate.cs",
+              "RelativeDocumentMoniker": "AmazeCareHMS\\Migrations\\20250715172337_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\VEDHASRUTHI S\\source\\repos\\CS\\C\\AmazeCareHMS\\AmazeCareHMS\\Migrations\\20250715172337_InitialCreate.cs",
+              "RelativeToolTip": "AmazeCareHMS\\Migrations\\20250715172337_InitialCreate.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T05:22:03.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "5njbiskg..sql",
+              "DocumentMoniker": "C:\\Users\\NITHYA\\AppData\\Local\\Temp\\5njbiskg..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\NITHYA\\AppData\\Local\\Temp\\5njbiskg..sql",
+              "ToolTip": "C:\\Users\\NITHYA\\AppData\\Local\\Temp\\5njbiskg..sql",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\NITHYA\\AppData\\Local\\Temp\\5njbiskg..sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-07-15T20:09:23.768Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
